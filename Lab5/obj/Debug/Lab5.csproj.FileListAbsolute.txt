@@ -1,0 +1,17 @@
+D:\Проекты\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\Проекты\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\Проекты\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\Проекты\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+D:\Проекты\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+D:\Проекты\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+D:\Проекты\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+D:\Проекты\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\Проекты\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\Проекты\Lab5\Lab5\obj\Debug\Lab5.pdb
+D:\Проекты\Lab5\Lab5\obj\Debug\Lab5.Form2.resources
+D:\Проекты\Lab5\Lab5\bin\Debug\MathParser.org-mXparser.dll
+D:\Проекты\Lab5\Lab5\obj\Debug\Lab5.csproj.CopyComplete
+D:\Проекты\Lab5\Lab5\obj\Debug\Lab5.Form3.resources
+D:\Проекты\Lab5\Lab5\bin\Debug\Newtonsoft.Json.dll
+D:\Проекты\Lab5\Lab5\bin\Debug\Wolfram.Alpha.dll
+D:\Проекты\Lab5\Lab5\bin\Debug\Newtonsoft.Json.xml
